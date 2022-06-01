@@ -11,7 +11,7 @@
 
 ## Description
 
-The website display pictures of the cupcakes, informs what is the most popular cupcake and also provides the address, phone number and email to contact the business.
+The website displays pictures of the cupcakes, informs what is the most popular cupcake and also provides the address, phone number and email to contact the business.
 
 ## Setup/Installation Requirements
 1. Clone this repository to your desktop.
