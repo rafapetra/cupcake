@@ -6,6 +6,21 @@ h1 {
   text-align: center;
   font-size: 32pt;
 }
+p.flashy  {
+color: white;
+font-style: italic;
+}
+p.best {
+  color: darkslateblue;
+  font-weight: 900;
+  font-size: large;
+  text-align: center;
+}
+img.cupcake {
+  width: 40%;
+  margin: auto;
+  display: block;
+}
 body {
   background-color: salmon;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
