@@ -27,15 +27,29 @@ p.best {
   margin: auto;
 }
 .cupcake2 {
-  width: 200px;
+  width: 70px;
   float: left;
   margin-right: 2%;
 }
-.sidebar {
-  width: 30%;
+.box0 {
+  width: 50%;
+  height: auto;
   background-color: white;
-  margin: auto;
-  display: block;
+  margin-left: 20px;
+  margin-right: 0px;
+  margin-bottom: 3%;
+  border: 1px solid black;
+  padding: 1px;
+  
+}
+.box1 {
+  width: 500px;
+  height: auto;
+  background-color:white;
+  padding: 3px;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  margin-left: 4px; 
 }
 .column {
   width: 300px;
@@ -43,20 +57,16 @@ p.best {
   margin: 3%;
   display: block;
 }
-.box1 {
-  width: 500px;
-  height: 300px;
-  background-color:white;
-  padding: 1px;
-  border: 1px solid #000;
-  box-sizing: border-box;
-  margin: auto;
-  display: block;
-}
-
 .my-class {
   margin: 12px;
   border: 2px solid green;
   padding: 4px;
   display: block;
+}
+
+.grid-container { 
+  display: grid;
+  grid-template-columns: 350px 500px;
+  grid-gap: -5px;
+  grid-area: auto;
 }
